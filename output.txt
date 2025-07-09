@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A4AC-9906
+
+ Directory of C:\Users\HP\Downloads\Classroom_assistant
+
+29-06-2025  17:52    <DIR>          .
+29-06-2025  13:26    <DIR>          ..
+29-06-2025  15:27    <DIR>          assets
+29-06-2025  15:19    <DIR>          assistant
+29-06-2025  17:09               996 main.py
+29-06-2025  17:52                 0 output.txt
+29-06-2025  13:31               175 requirements.txt
+               3 File(s)          1,171 bytes
+               4 Dir(s)  217,652,436,992 bytes free

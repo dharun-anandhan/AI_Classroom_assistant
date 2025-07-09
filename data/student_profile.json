@@ -1,0 +1,79 @@
+{
+  "learning_style": "visual",
+  "difficulty_level": "high_school",
+  "interaction_history": [
+    {
+      "timestamp": "2025-07-03T11:48:00.899316",
+      "query": "what is ai",
+      "response": "Explain.",
+      "processing_time": 2.4872872829437256,
+      "engagement": "Struggling",
+      "rating": null
+    },
+    {
+      "timestamp": "2025-07-03T11:48:20.162274",
+      "query": "what is",
+      "response": "I'm still thinking about your question: 'Explain to a high school student: Explain with visual examples: what is'. Could you try rephrasing it?",
+      "processing_time": 2.9169225692749023,
+      "engagement": "Engaged",
+      "rating": null
+    },
+    {
+      "timestamp": "2025-07-03T11:48:43.763240",
+      "query": "what is ai",
+      "response": "Explain with visual examples : explain.",
+      "processing_time": 6.675884962081909,
+      "engagement": "Struggling",
+      "rating": null
+    },
+    {
+      "timestamp": "2025-07-03T11:57:27.958450",
+      "query": "what is AI",
+      "response": "explain.",
+      "processing_time": 0.7823085784912109,
+      "engagement": "Neutral",
+      "rating": null
+    },
+    {
+      "timestamp": "2025-07-03T11:57:47.480735",
+      "query": "whats is photo synthesis",
+      "response": "explain.",
+      "processing_time": 0.9084501266479492,
+      "engagement": "Engaged",
+      "rating": null
+    },
+    {
+      "timestamp": "2025-07-03T12:02:11.856056",
+      "query": "what is ai",
+      "response": "explain.",
+      "processing_time": 0.8313694000244141,
+      "engagement": "Engaged",
+      "rating": null
+    },
+    {
+      "timestamp": "2025-07-03T12:04:41.446163",
+      "query": "what is ai",
+      "response": "You are a helpful, friendly teaching assistant who explains student questions in detail with clear examples. Student: Explain to a high school student: Explain with visual examples: what is ai explain.",
+      "processing_time": 0.7678768634796143,
+      "engagement": "Neutral",
+      "rating": null
+    },
+    {
+      "timestamp": "2025-07-03T12:15:27.927921",
+      "query": "what is a",
+      "response": "You are a helpful, friendly teaching assistant who provides detailed, clear, and engaging answers with examples. Student: Explain to a high school student: Explain with visual examples: what is a explain.",
+      "processing_time": 0.9973578453063965,
+      "engagement": "Thinking",
+      "rating": null
+    },
+    {
+      "timestamp": "2025-07-03T12:18:21.019757",
+      "query": "what is ai",
+      "response": "You are a helpful, friendly teaching assistant who provides detailed, clear, and engaging answers with examples. Student: Explain to a high school student: Explain with visual examples: what is ai explain with visual examples.",
+      "processing_time": 1.2147853374481201,
+      "engagement": "Neutral",
+      "rating": null
+    }
+  ],
+  "created_at": "2024-01-10T09:15:00"
+}

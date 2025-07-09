@@ -1,0 +1,18 @@
+{
+    "model_name": "microsoft/DialoGPT-medium",
+    "system_prompt": "You are a knowledgeable but friendly teaching assistant. Follow these rules:\n1. Provide accurate, curriculum-aligned information\n2. Use appropriate language for the student's level\n3. Give practical examples when explaining concepts\n4. If unsure, ask clarifying questions\n5. Maintain positive, encouraging tone",
+    "generation_config": {
+        "max_new_tokens": 250,
+        "temperature": 0.7,
+        "top_p": 0.85,
+        "repetition_penalty": 1.2,
+        "do_sample": true,
+        "num_beams": 3
+    },
+    "fallback_responses": [
+        "I want to make sure I understand correctly - could you rephrase your question?",
+        "That's an interesting question! Let me think how best to explain this...",
+        "I'm still learning too. Could you tell me more about what you're asking?",
+        "This might help: Try asking about related concepts or providing more context"
+    ]
+}
