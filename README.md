@@ -45,7 +45,7 @@ Modern classrooms lack personalized, real-time help. Students hesitate to ask qu
 
 | Name             | Role                         | GitHub Username     |
 |------------------|------------------------------|---------------------|
-| Dharun A         | Lead Developer, Integrator   | `@yourusername`     |
+| Dharun A         | Lead Developer, Integrator   | `@dharun-anandhan`  |
 | Saravanakumar B  | Voice Input, UI Integration  | `@teammate1username`|
 | Rahul Ramana V   | Testing, Debugging, Docs     | `@teammate2username`|
 
