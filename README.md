@@ -42,6 +42,10 @@ Modern classrooms lack personalized, real-time help. Students hesitate to ask qu
 
 ---
 
+<pre> ## 📁 Project Structure ``` . ├── assistant/ # Core assistant modules │ ├── core.py # Main logic controller │ ├── models.py # Model loading & response generation │ ├── interface.py # UI logic (CLI or future GUI) │ ├── engagement.py # Engagement analysis (optional/extendable) ├── main.py # Entry point ├── requirements.txt # Project dependencies ├── .gitignore # Files/folders to ignore in Git ├── README.md # Project documentation ├── ai_config.json # Optional model configuration ├── student_profile.json # Optional student profile ├── demo_screenshot.png # Screenshot of the assistant ├── docs/ # Docs and presentation files │ ├── AI_Assistant_Report.docx │ └── AI_Assistant_Presentation.pptx ``` </pre>
+
+---
+
 ## 👨‍💻 Contributors
 
 | Name             | Role                         | GitHub Username     |
