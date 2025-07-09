@@ -81,7 +81,7 @@ Modern classrooms lack personalized, real-time help. Students hesitate to ask qu
 
 ## 🎬 Demo Video
 
-> 🔗 Coming Soon: Add YouTube/GDrive link after uploading
+> 🔗 Demo Video : (https://www.mediafire.com/file/gtr2h6w4rpiajxf/Intel+Demo+Video.mp4/file)
 
 ---
 
