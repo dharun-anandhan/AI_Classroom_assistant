@@ -1,21 +1,26 @@
-# Core AI packages
+# Core AI
 torch==2.0.1
 transformers==4.28.1
 huggingface-hub==0.14.1
+accelerate
 
-# Voice processing
+# Voice Processing
 speechrecognition==3.10.0
 pyttsx3==2.90
 pyaudio==0.2.14
 
-# Computer vision
+# Computer Vision (optional)
 opencv-python==4.7.0.72
 Pillow==9.5.0
 numpy==1.24.3
 
-# GUI
+# GUI (optional)
 tk==0.1.0
 ttkbootstrap==1.10.1
+
+# Document/Presentation Support
+python-docx
+python-pptx
 
 # Utilities
 python-dotenv==1.0.0
