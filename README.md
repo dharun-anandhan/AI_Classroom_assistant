@@ -68,8 +68,8 @@ Modern classrooms lack personalized, real-time help. Students hesitate to ask qu
 | Name             | Role                         | GitHub Username     |
 |------------------|------------------------------|---------------------|
 | Dharun A         | Lead Developer, Integrator   | `@dharun-anandhan`  |
-| Saravanakumar B  | Voice Input, UI Integration  | `@teammate1username`|
-| Rahul Ramana V   | Testing, Debugging, Docs     | `@teammate2username`|
+| Saravanakumar B  | Voice Input, UI Integration  | `@sarvx-gh`|
+| Rahul Ramana V   | Testing, Debugging, Docs     | `@rahul-ramana`|
 
 ---
 
@@ -81,7 +81,7 @@ Modern classrooms lack personalized, real-time help. Students hesitate to ask qu
 
 ## 🎬 Demo Video
 
-> 🔗 Coming Soon: Add YouTube/GDrive link after uploading
+> 🔗 Demo Video : (https://www.mediafire.com/file/gtr2h6w4rpiajxf/Intel+Demo+Video.mp4/file)
 
 ---
 
