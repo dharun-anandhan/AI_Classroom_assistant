@@ -73,12 +73,6 @@ Modern classrooms lack personalized, real-time help. Students hesitate to ask qu
 
 ---
 
-## 📷 Demo Screenshot
-
-![Screenshot](demo_screenshot.png)
-
----
-
 ## 🎬 Demo Video
 
 > 🔗 Demo Video : (https://www.mediafire.com/file/gtr2h6w4rpiajxf/Intel+Demo+Video.mp4/file)
